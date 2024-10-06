@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am completing my PhD at the Department of Geophysics, Tohoku University, Japan, with an expected graduation in Summer 2025. My research specializes in tropical meteorology, focusing on mesoscale convective systems and their interactions with midlatitude cold air outbreaks, which significantly influence tropical convection. In particular, I explore how midlatitude air intrusions, known as cold surges, affect tropical weather, leading to extreme events and influencing broader climate dynamics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+By combining reanalysis data and high-resolution numerical simulations, I investigate the development and behavior of these mesoscale systems. My work aims to understand their connections to larger-scale atmospheric patterns, such as monsoonal circulations and global oscillations, aiming to improve predictions of severe weather events in tropical regions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am a visiting researcher at the Department of Atmospheric Sciences, University of Hawaii.
