@@ -1,18 +1,21 @@
 {
   "education": [
     {
-      "institution": "Department of Geophysics, Tohoku University,",
+      "institution": "Department of Geophysics, Tohoku University",
       "location": "Sendai, Japan",
       "studyType": "PhD, Geophysics",
       "startDate": "2022",
       "endDate": "present",
+      "courses": ["Atmospheric Sciences"]
+
     },
     {
-      "institution": "Department of Geophysics, Tohoku University,",
+      "institution": "Department of Geophysics, Tohoku University",
       "location": "Sendai, Japan",
       "studyType": "MSc, Geophysics",
       "startDate": "2020",
       "endDate": "2022",
+      "courses": ["Atmospheric Sciences"]
     },
     {
       "institution": "University of Zurich, Zurich, Switzerland",
