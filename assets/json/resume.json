@@ -2,7 +2,7 @@
   "education": [
     {
       "institution": "Department of Geophysics, Tohoku University",
-      "location": "Sendai, Japan",
+      "location": "Japan",
       "studyType": "PhD, Geophysics",
       "startDate": "2022",
       "endDate": "present",
@@ -11,7 +11,7 @@
     },
     {
       "institution": "Department of Geophysics, Tohoku University",
-      "location": "Sendai, Japan",
+      "location": "Japan",
       "studyType": "MSc, Geophysics",
       "startDate": "2020",
       "endDate": "2022",
@@ -19,7 +19,7 @@
     },
     {
       "institution": "Department of Environmental Sciences, Ateneo de Davao University",
-      "location": "Davao, Philippines",
+      "location": "Philippines",
       "studyType": "BSc in Environmental Sciences (minor in Sociology)",
       "courses": ["Atmospheric Sciences"]
     }
