@@ -21,8 +21,8 @@ nav_order: 3
 ## Selected Conference Presentations
 
 ### 2024
-- **Lagare, C.**, Yamazaki, T., Ito, J. (2024, July) Climatological Characteristics of Mesoscale Convective Systems in the Philippines. Poster presentation at the 4th Workshop on Convective Organization and Precipitation Extremes (WCO4), Italy. 
-- **Lagare, C.**, Ito, J., Yamazaki, T. (2024, June) Numerical study of cold surge vortices and its influence on tropical rainfall. Poster presentation at the Earth, Sea and Sky IX: International Joint Graduate Program Workshop in Earth and Environmental Sciences., Japan. 
+- **Lagare, C.**,  Ito, J., Torri, G., Yamazaki, T., (2024, December) Cold Surge Vortices and Their Relation to Tropical Heavy Rainfall During MJO. Poster presentation at the American Geophysical Union Meeting (AGU24), USA.  
+- **Lagare, C.**, Yamazaki, T., Ito, J. (2024, July) Climatological Characteristics of Mesoscale Convective Systems in the Philippines. Poster presentation at the 4th Workshop on Convective Organization and Precipitation Extremes (WCO4), Italy.  
 - **Lagare, C.**, Yamazaki, T., Ito, J. (2024, May) Climatological Characteristics of Mesoscale Convective Systems in the Philippines. Oral presentation at the Japan Geoscience Union Meeting (JpGU), Japan.
 
 ### 2023
