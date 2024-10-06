@@ -20,10 +20,8 @@
     {
       "institution": "Department of Environmental Sciences, Ateneo de Davao University",
       "location": "Davao, Philippines",
-      "studyType": "BSc",
-      "startDate": "2013",
-      "endDate": "2018",
-      "courses": ["Atmospheric Sciences", "Minored in Sociology"]
+      "studyType": "BSc in Environmental Sciences (minor in Sociology)",
+      "courses": ["Atmospheric Sciences"]
     }
   ],
   "awards": [
