@@ -23,14 +23,21 @@
       "startDate": "2018"
     }
   ],
-  "awards": [
+  "award": [
     {
       "title": "DC2 JSPS Research Fellow",
       "date": "2025",
       "awarder": "Japan Society for the Promotion of Science",
       "url": "",
-      "summary": "Fellowship covers possibility of 1.5 years of Post-doctoral research."
-    }
+      "summary": ""
+    },
+    {
+      "title": "DC2 JSPS Research Fellow",
+      "date": "2025",
+      "awarder": "Japan Society for the Promotion of Science",
+      "url": "",
+      "summary": ""
+    }, 
   ],
   "work": [
     {
