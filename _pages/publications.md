@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /publications/
-title:
+title: publications
 description: 
 nav: true
 nav_order: 3
 ---
 
-## Journal Papers
+# Journal Papers
 
 ### 2023
 
