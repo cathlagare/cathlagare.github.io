@@ -1,15 +1,13 @@
 {
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Tohoku Univeristy",
+      "location": "Sendai, Japan",
+      "area": "Geophysics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022",
+      "endDate": "present",
+      "courses": ["Atmospheric Sciences"]
     },
     {
       "institution": "University of Zurich, Zurich, Switzerland",
