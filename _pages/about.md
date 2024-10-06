@@ -22,4 +22,4 @@ I'm a PhD Candidate at the Department of Geophysics, Tohoku University, Japan, c
 
 By combining reanalysis data and high-resolution numerical simulations, I investigate the development and behavior of these mesoscale systems. My work aims to understand their connections to larger-scale atmospheric patterns, such as monsoonal circulations and global oscillations, aiming to improve predictions of severe weather events in tropical regions.
 
-Currently, I am a visiting student at the Department of Atmospheric Sciences, University of Hawaiʻi at Mānoa. 
+Currently, I am a visiting student at the Department of Atmospheric Sciences, University of Hawaiʻi at Mānoa, USA. 
