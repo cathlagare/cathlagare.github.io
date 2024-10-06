@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-# Journal Papers
+## Journal Papers
 
 ### 2023
 
@@ -18,7 +18,7 @@ nav_order: 3
 - **Lagare, C.**, Coronel, R., Cruz, F., Narisma, G. T., Villafuerte, M., & Tibay, J. (2022). Impacts of planetary boundary layer parameterization in RegCM4. 7 on the intensity and structure of simulated tropical cyclones over the Philippines. Climate Dynamics, 59(9), 2915-2928.
 
 
-# Selected Conference Presentations
+## Selected Conference Presentations
 
 ### 2024
 - **Lagare, C.**,  Ito, J., Torri, G., Yamazaki, T., (2024, December) Cold Surge Vortices and Their Relation to Tropical Heavy Rainfall During MJO. Poster presentation at the American Geophysical Union Meeting (AGU), USA.  
