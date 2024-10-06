@@ -20,3 +20,18 @@ nav_order: 3
 
 ## Selected Conference Presentations
 
+### 2024
+- **Lagare, C.**, Yamazaki, T., Ito, J. (2024, July) Climatological Characteristics of Mesoscale Convective Systems in the Philippines. Poster presentation at the 4th Workshop on Convective Organization and Precipitation Extremes (WCO4), Italy. 
+- **Lagare, C.**, Ito, J., Yamazaki, T. (2024, June) Numerical study of cold surge vortices and its influence on tropical rainfall. Poster presentation at the Earth, Sea and Sky IX: International Joint Graduate Program Workshop in Earth and Environmental Sciences., Japan. 
+- **Lagare, C.**, Yamazaki, T., Ito, J. (2024, May) Climatological Characteristics of Mesoscale Convective Systems in the Philippines. Oral presentation at the Japan Geoscience Union Meeting (JpGU), Japan.
+
+### 2023
+- **Lagare, C.**, Yamazaki, T., Ito, J. (2023, August) Mesoscale Convective Systems Under Weak Large-Scale Conditions over Mindanao, Philippines. The 6th International Workshop on Nonhydrostatic Models (NHM-WS2023)., Japan. 
+- **Lagare, C.**, Yamazaki, T., Ito, J. (2023, May) A Case Study of a Heavy Rainfall Event Associated with Mesoscale Convective Systems under Weak Large-Scale Conditions over Mindanao, Philippines. Oral presentation at the Japan Geoscience Union Meeting (JpGU), Japan. 
+- **Lagare, C.**, Yamazaki, T., Ito, J. (2023, April) Characteristics of Mesoscale Convective Systems in the Philippines. Poster presentation at the European Geoscience Union Meeting (EGU), Austria.
+
+### 2022
+- **Lagare, C.**, Yamazaki, T., Ito, J. (2022, May) Numerical Simulation of Heavy Rainfall over Mindanao, Philippines. Poster presentation at the Japan Geoscience Union (JpGU) Meeting 2022, Japan.
+
+### 2019
+- **Lagare, C.**, Coronel, R. (2019, July) Numerical Simulations of Heavy Rainfall and Streamflow over Davao City,Philippines: A Baseline Study for the Development of a Hydro-Meteorological Flood Forecasting System. Poster presentation at the 16th Annual Meeting of the Asia Oceania Geosciences Society (AOGS), Singapore.
