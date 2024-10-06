@@ -23,7 +23,7 @@
       "startDate": "2018"
     }
   ],
-  "award": [
+  "awards": [
     {
       "title": "DC2 JSPS Research Fellow",
       "date": "2025",
@@ -32,12 +32,12 @@
       "summary": ""
     },
     {
-      "title": "DC2 JSPS Research Fellow",
-      "date": "2025",
-      "awarder": "Japan Society for the Promotion of Science",
+      "title": "The International Joint Graduate Program in Earth and Environment Sciences (GP-EES) Research Grant ",
+      "date": "2022-2025",
+      "awarder": "Tohoku University",
       "url": "",
       "summary": ""
-    }, 
+    }
   ],
   "work": [
     {
