@@ -4,20 +4,23 @@
       "institution": "Department of Geophysics, Tohoku University",
       "location": "Japan",
       "studyType": "PhD in Geophysics (2022-Present)",
-      "courses": ["Atmospheric Sciences"]
+      "courses": ["Atmospheric Sciences"],
+      "startDate": "2025"
 
     },
     {
       "institution": "Department of Geophysics, Tohoku University",
       "location": "Japan",
       "studyType": "MSc in Geophysics (2022)",
-      "courses": ["Atmospheric Sciences"]
+      "courses": ["Atmospheric Sciences"],
+      "startDate": "2022"
     },
     {
       "institution": "Department of Environmental Sciences, Ateneo de Davao University",
       "location": "Philippines",
       "studyType": "BSc in Environmental Sciences (2018)",
-      "courses": ["Atmospheric Sciences"]
+      "courses": ["Atmospheric Sciences"],
+      "startDate": "2018"
     }
   ],
   "awards": [
