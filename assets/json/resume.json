@@ -9,6 +9,13 @@
 
     },
     {
+      "institution": "Department of Atmospheric Sciences, University of Hawaiʻi at Mānoa",
+      "location": "USA",
+      "studyType": "Visiting PhD Student (2023-Present)",
+      "startDate": "2025"
+
+    },
+    {
       "institution": "Department of Geophysics, Tohoku University",
       "location": "Japan",
       "studyType": "MSc in Geophysics (2022)",
@@ -19,7 +26,6 @@
       "institution": "Department of Environmental Sciences, Ateneo de Davao University",
       "location": "Philippines",
       "studyType": "BSc in Environmental Sciences (2018)",
-      "courses": ["Atmospheric Sciences"],
       "startDate": "2018"
     }
   ],
