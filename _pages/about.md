@@ -18,8 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a PhD Candidate at the Department of Geophysics, Tohoku University, Japan, supervised by [Dr. Takeshi Yamazaki](https://wind.gp.tohoku.ac.jp/personal/yamaz/public_html/) and co-supervised by [Dr. Junshi Ito](https://wind.gp.tohoku.ac.jp/personal/junshi/public_html/) and [Dr. Giuseppe Torri](https://giuseppetorri.com/), with an expected graduation in September 2025. My research interests are in tropical meteorology, focusing on mesoscale convective systems and their interactions with midlatitude cold air outbreaks, which significantly influence tropical convection. In particular, I explore how midlatitude air intrusions, known as cold surges, affect tropical weather, leading to extreme events and influencing broader climate dynamics.
+Hello! I am a Postdoctoral Researcher at Tohoku University studying tropical convection and its interaction with extratropical disturbances. I focus on how midlatitude cold surges influence tropical mesoscale convective systems (MCSs) using reanalysis datasets and high-resolution numerical simulations. I study how mesoscale processes bridge tropical and extratropical variability, and I am also interested in air–sea interaction. I completed my PhD in Geophysics at Tohoku University, Japan, in a jointly supervised degree program with the University of Hawaiʻi at Manoa, working with [Dr. Takeshi Yamazaki](https://wind.gp.tohoku.ac.jp/personal/yamaz/public_html/), [Dr. Junshi Ito](https://wind.gp.tohoku.ac.jp/personal/junshi/public_html/), and [Dr. Giuseppe Torri](https://giuseppetorri.com/). I am now continuing my postdoctoral research in the same lab.
 
-By combining reanalysis data and high-resolution numerical simulations, I investigate the development and behavior of these mesoscale systems. My work aims to understand their connections to larger-scale atmospheric patterns, such as monsoonal circulations and global oscillations, aiming to improve predictions of severe weather events in tropical regions.
+I’m always happy to connect, just send me an email.
 
-Currently, I am a visiting student at the Department of Atmospheric Sciences, University of Hawaiʻi at Mānoa, USA. 
+
+
