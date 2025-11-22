@@ -3,14 +3,14 @@
     {
       "institution": "Department of Geophysics, Tohoku University",
       "location": "Japan",
-      "studyType": "PhD in Geophysics (2022-Present)",
+      "studyType": "PhD in Geophysics (2022-2025)",
       "courses": ["Atmospheric Sciences"],
       "startDate": "2025"
     },
     {
       "institution": "Department of Atmospheric Sciences, University of Hawaiʻi at Mānoa",
       "location": "USA",
-      "studyType": "Visiting PhD Student (2023-Present)",
+      "studyType": "Visiting PhD Student (2023-2025)",
       "startDate": "2023"
     },
     {
@@ -75,6 +75,19 @@
       "highlights": [
         "Coordinated Regional Climate Downscaling Experiment Southeast Asia (CORDEX-SEA) Project",
         "Tropical cyclone climatology and dynamics"
+      ]
+    },
+    {
+      "name": "Atmospheric Science Group, Tohoku University",
+      "position": "Postdoctoral Fellow",
+      "url": "",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Project on Multiscale interactions between midlatitude cold-air outbreaks and tropical mesoscale convective systems
+        during the Northern Hemisphere winter",
+        "Japan Society for the Promotion of Science (JSPS) Fellowship (Change from DC to PD category)"
       ]
     }
   ]
