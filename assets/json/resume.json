@@ -6,14 +6,12 @@
       "studyType": "PhD in Geophysics (2022-Present)",
       "courses": ["Atmospheric Sciences"],
       "startDate": "2025"
-
     },
     {
       "institution": "Department of Atmospheric Sciences, University of Hawaiʻi at Mānoa",
       "location": "USA",
       "studyType": "Visiting PhD Student (2023-Present)",
       "startDate": "2023"
-
     },
     {
       "institution": "Department of Geophysics, Tohoku University",
@@ -57,7 +55,7 @@
       "awarder": "Ministry of Education, Culture, Sports, Science and Technology, Japan",
       "url": "",
       "summary": ""
-    }, 
+    },
     {
       "title": "29th BPI-DOST Science Awardee",
       "date": "2018",
@@ -74,7 +72,10 @@
       "startDate": "2019",
       "endDate": "2020",
       "summary": "",
-      "highlights": ["Coordinated Regional Climate Downscaling Experiment Southeast Asia (CORDEX-SEA) Project", "Tropical cyclone climatology and dynamics"]
+      "highlights": [
+        "Coordinated Regional Climate Downscaling Experiment Southeast Asia (CORDEX-SEA) Project",
+        "Tropical cyclone climatology and dynamics"
+      ]
     }
   ]
 }
