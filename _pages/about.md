@@ -22,5 +22,5 @@ Hi! I am a Postdoctoral Fellow at Tohoku University, Japan. I am broadly interes
 
 I completed my PhD in Geophysics (September 2025) at Tohoku University, Japan through a jointly supervised degree program with the University of Hawaiʻi at Manoa, USA, advised by [Dr. Takeshi Yamazaki](https://wind.gp.tohoku.ac.jp/personal/yamaz/public_html/), [Dr. Junshi Ito](https://wind.gp.tohoku.ac.jp/personal/junshi/public_html/), and [Dr. Giuseppe Torri](https://giuseppetorri.com/). I am now continuing my postdoctoral research in the same group.
 
-I’m always happy to connect, just send me an email.
+I’m always happy to connect, just send me an [email](mailto:cathrene@tohoku.ac.jp).
 
