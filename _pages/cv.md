@@ -11,7 +11,7 @@ nav_order: 2
     <meta charset="utf-8" />
     <meta name="robots" content="noindex" />
     <script>
-      window.location.replace("{{ '/assets/pdf/Cathrene_Lagare_CV_2025.pdf' | relative_url }}");
+      window.location.replace("{{ '/assets/pdf/Cathrene_Lagare_CV_2026.pdf' | relative_url }}");
     </script>
   </head>
   <body></body>
